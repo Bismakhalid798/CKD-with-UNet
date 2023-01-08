@@ -10,9 +10,13 @@ Dataset:
 Usage:
 
 a) In Fyp_working_version notebook we visualized the data and converted the 3D images to PNG slices and stored them in google drive.
+
 b) training_unet_(1) notebook includes UNET model training on the generated png slices. 
+
 c) In dropout_0_05 notebook dropouts are added in the UNET model.
+
 d) In classification_vgg16(1) notebook the experiment is performed where first the data is passed through a classifier and then the output from the classifier is further passed into UNET for segmentation. 
+
 e) dense_full notebook includes addition of dense layers within the UNET model. 
 
   
