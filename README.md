@@ -6,6 +6,7 @@ Introduction to Project:
 Dataset: 
   
   We used the publically available KITS 19 Challenge dataset. Dataset is available at this link "https://github.com/neheller/kits19"
+  
 Usage:
 
 a) In Fyp_working_version notebook we visualized the data and converted the 3D images to PNG slices and stored them in google drive.
